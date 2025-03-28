@@ -1,4 +1,4 @@
-package com.bridgelabz.list;
+package com.bridgelabz.listinterface;
 
 import java.util.*;
 
