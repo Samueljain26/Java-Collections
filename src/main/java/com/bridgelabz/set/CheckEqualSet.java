@@ -17,7 +17,6 @@ public class CheckEqualSet {
         sc.close();
     }
 
-    // Method to get a set from user input
     static Set<Integer> getSet(Scanner sc, String setName) {
         System.out.println("Enter elements for " + setName + " (Enter 0 to stop):");
         Set<Integer> set = new HashSet<>();
