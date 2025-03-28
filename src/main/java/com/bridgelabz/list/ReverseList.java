@@ -1,6 +1,5 @@
 package com.bridgelabz.list;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class ReverseList {

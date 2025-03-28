@@ -4,14 +4,14 @@ import java.util.*;
 
 public class RemoveDuplicates {
     public static void main(String[] args) {
-    Scanner sc =new Scanner(System.in);
-    Set<Integer> ls = new HashSet<>();
-    System.out.println("Enter the elements || enter 0 to exit writing- ");
-    int n=sc.nextInt();
-    while(n!=0){
-        ls.add(n);
-        n=sc.nextInt();
-    }
+        Scanner sc =new Scanner(System.in);
+        Set<Integer> ls = new HashSet<>();
+        System.out.println("Enter the elements || enter 0 to exit writing- ");
+        int n=sc.nextInt();
+        while(n!=0){
+            ls.add(n);
+            n=sc.nextInt();
+        }
         System.out.print("New list: " +ls);
     }
 }
