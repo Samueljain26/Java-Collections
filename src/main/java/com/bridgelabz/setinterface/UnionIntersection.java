@@ -39,7 +39,7 @@ public class UnionIntersection {
             set.add(n);
         }
         return set;
-    }
+     }
 }
 /*Enter elements for Set 1 (Enter 0 to stop):
 1 2 3 4 5
